@@ -1,3 +1,9 @@
+# Zachary Inn
+# 2376935
+# inn@chapman.edu
+# CPSC 298-02
+# cars.sh
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
